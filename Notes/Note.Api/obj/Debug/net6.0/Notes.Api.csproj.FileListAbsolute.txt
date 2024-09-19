@@ -1,0 +1,7 @@
+C:\Users\Lenovo_M\source\repos\Note\Note.Api\obj\Debug\net6.0\Notes.Api.csproj.AssemblyReference.cache
+C:\Users\Lenovo_M\source\repos\Note\Note.Api\obj\Debug\net6.0\Notes.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo_M\source\repos\Note\Note.Api\obj\Debug\net6.0\Notes.Api.AssemblyInfoInputs.cache
+C:\Users\Lenovo_M\source\repos\Note\Note.Api\obj\Debug\net6.0\Notes.Api.AssemblyInfo.cs
+C:\Users\Lenovo_M\source\repos\Note\Note.Api\obj\Debug\net6.0\Notes.Api.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo_M\source\repos\Note\Note.Api\obj\Debug\net6.0\Notes.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lenovo_M\source\repos\Note\Note.Api\obj\Debug\net6.0\Notes.Api.MvcApplicationPartsAssemblyInfo.cache
